@@ -24,4 +24,69 @@ It showcases strong skills in LLM integration, backend engineering, data logging
 - Scalable architecture ready for production workloads  
 
 ---
+## 🛠️ Tech Stack
+
+- Gradio – Web UI  
+- OpenAI SDK – API integration  
+- Ollama – Local model inference  
+- Qwen2.5-Coder – Code-specialized LLM  
+- Python – Backend logic  
+
+---
+
+### 📦 Prerequisites
+
+Make sure the following are installed:
+
+- Git  
+- Python 3.8+  
+
+---
+
+### ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/coding-chatbot/coding-chatbot.git
+
+```
+### 2. Navigate to the Project Directory
+``` cd coding-chatbot ```
+
+
+### 3. Run the Startup Script
+```
+chmod +x on_start.sh
+./on_start.sh
+```
+### 4. Run the Gradio App
+```
+python gradio_app.py
+```
+
+
+
+
+## 📁 Project Structure
+
+```
+coding-chatbot/
+│── gradio_app.py
+│── on_start.sh
+│── requirements.txt
+│── models/
+│── utils/
+└── README.md
+```
+
+
+
+
+
+
+
+
+
+
+
 
