@@ -51,7 +51,9 @@ git clone https://github.com/coding-chatbot/coding-chatbot.git
 
 ```
 ### 2. Navigate to the Project Directory
-``` cd coding-chatbot ```
+``` 
+cd coding-chatbot
+```
 
 
 ### 3. Run the Startup Script
